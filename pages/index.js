@@ -14,7 +14,6 @@ import BannerPage from '@components/BannerPage'
 import HeaderDefault from '@layouts/headers/HeaderDefault'
 import FooterDefault from '@layouts/footers/FooterDefault'
 
-export const tabImage1 = "/img/shots/dashboard.svg";
 export default function Home() {
   const [screenW, setScreenW] = useState(0)
 
